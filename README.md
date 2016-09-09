@@ -3,7 +3,7 @@ This is Android tower defence game. Players should protect castle from monsters 
 
 #Features
 * Used Unity 3D, UnityAsset, NGUI for geme development
-* User friendly UI design with diverse options like audio on/off, game speed change (1x, 2x, 4x), replay, select stage
+* User friendly UI design with diverse options like audio on/off, game speed change (1x, 2x, 4x), replay, quit, select stage
 * Many types of monsters and towers which have special ability
 * Star score system for stage evaluation
 
